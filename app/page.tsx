@@ -197,7 +197,7 @@ export default function Home() {
           <h2>Empecemos por<br /><em>entender tu clínica.</em></h2>
           <p>Cuéntanos qué quieres mejorar. Revisaremos el contexto contigo y veremos si Arbion puede ayudarte.</p>
         </div>
-        <a className="contact-card" href="mailto:hola@arbionbusiness.com?subject=Quiero%20hablar%20sobre%20mi%20cl%C3%ADnica">
+        <a className="contact-card" href="mailto:arbionbusiness@gmail.com?subject=Quiero%20hablar%20sobre%20mi%20cl%C3%ADnica">
           <span>PRIMERA CONVERSACIÓN</span>
           <strong>Habla con Arbion <b>↗</b></strong>
           <small>Comparte objetivos generales. No envíes datos personales ni información clínica de pacientes.</small>
@@ -207,7 +207,7 @@ export default function Home() {
       <footer>
         <a className="brand" href="#inicio" aria-label="Arbion Business, volver al inicio"><Image className="brand-logo" src="/arbion-logo-gold.png" alt="" width={530} height={575} /></a>
         <span>Estrategia digital para clínicas dentales.</span>
-        <a href="mailto:hola@arbionbusiness.com">hola@arbionbusiness.com</a>
+        <a href="mailto:arbionbusiness@gmail.com">arbionbusiness@gmail.com</a>
         <span>© 2026 Arbion Business</span>
       </footer>
     </main>
