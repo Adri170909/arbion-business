@@ -79,10 +79,10 @@ export default function Home() {
         <figure className="hero-visual">
           <div className="hero-photo-frame">
             <img className="hero-photo" src="https://images.unsplash.com/photo-1777331903190-341a3dd0441b?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=85&w=1400" alt="Dentista conversa con una paciente en una clínica luminosa y contemporánea" fetchPriority="high" />
-            <div className="journey-card">
-              <span>DEL PRIMER CONTACTO A LA CITA</span>
-              <div className="journey-steps"><b>Te encuentran</b><i>→</i><b>Te consultan</b><i>→</i><b>Reservan</b></div>
-            </div>
+          </div>
+          <div className="journey-card">
+            <span>DEL PRIMER CONTACTO A LA CITA</span>
+            <div className="journey-steps"><b>Te encuentran</b><i>→</i><b>Te consultan</b><i>→</i><b>Reservan</b></div>
           </div>
           <figcaption>Imagen de <a href="https://unsplash.com/@harold_angus" target="_blank" rel="noreferrer">Harold Hizon / Unsplash</a></figcaption>
         </figure>
