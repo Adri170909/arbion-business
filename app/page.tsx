@@ -71,7 +71,7 @@ export default function Home() {
             Arbion conecta campañas, páginas web y seguimiento para ayudarte a atraer pacientes para tus tratamientos prioritarios y ver qué está funcionando.
           </p>
           <div className="hero-actions">
-            <a className="button button-primary" href="#contacto">Cuéntanos qué quieres mejorar <span>↗</span></a>
+            <a className="button button-primary" href="#contacto">Reserva con nosotros una llamada gratuita <span>↗</span></a>
             <a className="text-link" href="#sistema">Conoce el sistema <span>↓</span></a>
           </div>
           <p className="hero-note">Una estrategia clara, con objetivos acordados y resultados que se pueden revisar.</p>
