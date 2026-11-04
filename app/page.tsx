@@ -66,7 +66,7 @@ export default function Home() {
         <div className="hero-grid" />
         <div className="hero-copy">
           <div className="eyebrow"><span className="pulse" /> MARKETING PARA CLÍNICAS DENTALES</div>
-          <h1>Más pacientes adecuados.<br /><em>Más claridad para crecer.</em></h1>
+          <h1>Más pacientes.<br /><em>Menos cancelaciones.</em></h1>
           <p className="hero-text">
             Arbion conecta campañas, páginas web y seguimiento para ayudarte a atraer pacientes para tus tratamientos prioritarios y ver qué está funcionando.
           </p>
